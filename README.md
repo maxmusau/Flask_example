@@ -1,8 +1,8 @@
-## We are going to learn Flask Framework
-# Step 1: create a folder known as Flask
-# Step 2: Inside the folder, create a python file called app.py and a folder called templates
-# Step 3: Inside the templates folder, create an html file called index.html 
-# Step 4: Copy the code below and paste it inside the index.html file
+# We are going to learn Flask Framework
+## Step 1: create a folder known as Flask
+## Step 2: Inside the folder, create a python file called app.py and a folder called templates
+## Step 3: Inside the templates folder, create an html file called index.html 
+## Step 4: Copy the code below and paste it inside the index.html file
  ``` <!DOCTYPE html>
 <html>
     <head>
